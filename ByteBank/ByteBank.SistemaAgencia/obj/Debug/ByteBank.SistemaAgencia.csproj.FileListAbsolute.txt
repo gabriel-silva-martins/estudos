@@ -1,0 +1,10 @@
+C:\Users\gabriel.martins\Desktop\estudos\estudos-csharp\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\gabriel.martins\Desktop\estudos\estudos-csharp\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\gabriel.martins\Desktop\estudos\estudos-csharp\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\gabriel.martins\Desktop\estudos\estudos-csharp\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\gabriel.martins\Desktop\estudos\estudos-csharp\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\gabriel.martins\Desktop\estudos\estudos-csharp\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+C:\Users\gabriel.martins\Desktop\estudos\estudos-csharp\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.martins\Desktop\estudos\estudos-csharp\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\gabriel.martins\Desktop\estudos\estudos-csharp\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\gabriel.martins\Desktop\estudos\estudos-csharp\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
