@@ -6,9 +6,9 @@ namespace Estudo001
 {
     public static class ListExtensoes
     {
-        public static void AdicionarVarios(this List<int> lista, params int[] itens)
+        public static void AdicionarVarios<T>(this List<T> lista, params T[] itens)
         {
-            foreach(int item in itens)
+            foreach(T item in itens)
             {
                 lista.Add(item);
             }

@@ -7,7 +7,7 @@ namespace Estudo001
     {
         static void Main(string[] args)
         {
-            List<int> idades = new List<int>();
+            List<string> idades = new List<string>();
 
             //idades.Add(1);
             //idades.Add(5);
@@ -16,7 +16,7 @@ namespace Estudo001
 
             //idades.Remove(5);
 
-            idades.AdicionarVarios(1, 4, 44, 26, 17, 20, 38);
+            idades.AdicionarVarios("Gabriel", "Estephane", "Maria", "Francisco");
 
             for(int i = 0; i < idades.Count; i++)
             {
