@@ -1,0 +1,14 @@
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\obj\Debug\netcoreapp3.1\Estudo001.csproj.AssemblyReference.cache
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\obj\Debug\netcoreapp3.1\Estudo001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\obj\Debug\netcoreapp3.1\Estudo001.AssemblyInfoInputs.cache
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\obj\Debug\netcoreapp3.1\Estudo001.AssemblyInfo.cs
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\obj\Debug\netcoreapp3.1\Estudo001.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\bin\Debug\netcoreapp3.1\Estudo001.exe
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\bin\Debug\netcoreapp3.1\Estudo001.deps.json
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\bin\Debug\netcoreapp3.1\Estudo001.runtimeconfig.json
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\bin\Debug\netcoreapp3.1\Estudo001.runtimeconfig.dev.json
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\bin\Debug\netcoreapp3.1\Estudo001.dll
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\bin\Debug\netcoreapp3.1\Estudo001.pdb
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\obj\Debug\netcoreapp3.1\Estudo001.dll
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\obj\Debug\netcoreapp3.1\Estudo001.pdb
+C:\Users\gabriel.martins\source\repos\Estudo001\Estudo001\obj\Debug\netcoreapp3.1\Estudo001.genruntimeconfig.cache
