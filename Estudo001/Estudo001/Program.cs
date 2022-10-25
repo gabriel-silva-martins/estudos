@@ -7,18 +7,18 @@ namespace Estudo001
     {
         static void Main(string[] args)
         {
-            List<string> idades = new List<string>();
+            List<string> nomes = new List<string>();
+            nomes.AdicionarVarios("Gabriel", "Estephane", "Maria", "Francisco");
 
-            //idades.Add(1);
-            //idades.Add(5);
-            //idades.Add(14);
-            //idades.Add(26);
+            for(int i = 0; i < nomes.Count; i++)
+            {
+                Console.WriteLine(nomes[i]);
+            }
 
-            //idades.Remove(5);
+            List<int> idades = new List<int>();
+            idades.AdicionarVarios(14, 25, 17, 20, 35);
 
-            idades.AdicionarVarios("Gabriel", "Estephane", "Maria", "Francisco");
-
-            for(int i = 0; i < idades.Count; i++)
+            for (int i = 0; i < idades.Count; i++)
             {
                 Console.WriteLine(idades[i]);
             }
